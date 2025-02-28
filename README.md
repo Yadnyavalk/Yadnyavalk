@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yadnyavalk Deshmukh</h1>
 <h3 align="center">Aspiring Data Science Engineer</h3>
 
-- 🔭 I’m currently working on **Marketing Analysis**
+- 🔭 I’m currently working on **Marketing Analysis Project**
 
 - 🌱 I’m currently learning **Scikit learn,Web-Scrapping**
 
