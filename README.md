@@ -1,7 +1,7 @@
 #  I'm Yadnyavalk Deshmukh
 ## A Data Science Engineer
-- 🔭 I’m currently working on Blinkit_Sales_Analysis_Project & Home-Loan_approval_Analysis(Power-Bi Project) <br>
-- 🌱 I’m currently learning Webscrapping 
+- 🔭 I’m currently working on Blinkit_Sales_Analysis_Project  <br>
+
 
 
 ## 🌐 Socials:
