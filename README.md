@@ -1,7 +1,5 @@
 #  I'm Yadnyavalk Deshmukh
-## A Data Science Engineer
-- 🔭 I’m currently working on Blinkit_Sales_Analysis_Project  <br>
-
+## A Data Analyst Engineer
 
 
 ## 🌐 Socials:
