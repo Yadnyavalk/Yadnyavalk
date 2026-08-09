@@ -1,5 +1,5 @@
 #  I'm Yadnyavalk Deshmukh
-## A Data Analyst Engineer
+## A Data Science Engineer
 
 
 ## 🌐 Socials:
