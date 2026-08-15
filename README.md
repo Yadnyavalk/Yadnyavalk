@@ -197,14 +197,11 @@ Agentic AI
 My goal is to combine **strong analytical thinking with practical AI engineering** to build applications that solve real problems.
 
 ---
-
 # 🤝 Let's Connect
 
 📧 **Email:** [deshmukhyadnyavalk@gmail.com](mailto:deshmukhyadnyavalk@gmail.com)
 
-💼 **LinkedIn:** Yadnyavalk Deshmukh
-
-🐙 **GitHub:** Yadnyavalk
+💼 **LinkedIn:** [Yadnyavalk Deshmukh](https://www.linkedin.com/in/yadnyavalk/)
 
 ---
 
